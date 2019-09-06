@@ -1,0 +1,4 @@
+#Fri Sep 06 16:40:31 CEST 2019
+base.0=/Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

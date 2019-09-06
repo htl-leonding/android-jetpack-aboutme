@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.0-alpha10] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/0bdc8e5b0a25ad41aaffc45c95642ba7/databinding-adapters-3.6.0-alpha10/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.0-alpha10] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/f3c72b78494a7a58f549bc6f57b474f8/databinding-runtime-3.6.0-alpha10/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/41f84cff9ebe04da2634f286216d13ca/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/c7a6707066178354c343ff9c2c6e969d/core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/53f447ea699bd6dfae5e1fd2e6fa01c3/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.databinding:viewbinding:3.6.0-alpha10] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/2b01d27db1a2c389d32ec7184215b9ef/viewbinding-3.6.0-alpha10/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/8cb508bfdf6f01ce245c91d9384c4125/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/267e4149f63c2e51de2566f6f71c0bb6/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/7e9170591c8063189dd672eb32ef437a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/0bc3591ed575c344fa288c760c87b785/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/74020400db2f6fa3fe2ddd0964079197/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/644ec96439e52d4a491f95380dc1ff2a/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/2ed27b7bfd5db6b0d490239292bedbf1/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/911b9c1a56c56c8f2e170d4155e05b82/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/000a7a43e10ea483766e0620a1258420/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/ef45be40d873485720c8fce349da88cd/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/b472d5dc0bba90d56f6d8f693a67c071/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/1c6997942e90d77c9a99076f6357a432/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/3f6cbfe76996e07d01dfbefe588191c3/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/83fc8aee898046f8f3c53094c75b8e10/core-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/aab1b696e295f763adb899bd1d31aff7/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/06c19f6d674320399466171bff69e4d6/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/092c1988deaeb1ae541168f6c05386e9/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/7decd17eba4095488b8ca41eafcd30f0/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/a20568c990416533fb56e6edaae3482f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/e42fade8552409619bc04e2b440b6328/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/ba368533c87b0b41c7bba57cfdaf1f07/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/18466d29eaf5be32e500b2eaa0b5d033/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/a0e2b3729924c770ca82575f6f8a79da/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/1d5d554c4d92a0e804499914fc7249fa/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/22b205a0b95124a7c7b3ffb9f7f76e2f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/53f447ea699bd6dfae5e1fd2e6fa01c3/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/53f447ea699bd6dfae5e1fd2e6fa01c3/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.2] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/83fc8aee898046f8f3c53094c75b8e10/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/83fc8aee898046f8f3c53094c75b8e10/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/06c19f6d674320399466171bff69e4d6/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/06c19f6d674320399466171bff69e4d6/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/83fc8aee898046f8f3c53094c75b8e10/core-1.0.2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:11:9-40
+activity#at.htl.myapplication.MainActivity
+ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.6.0-alpha10] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/0bdc8e5b0a25ad41aaffc45c95642ba7/databinding-adapters-3.6.0-alpha10/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.0-alpha10] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/0bdc8e5b0a25ad41aaffc45c95642ba7/databinding-adapters-3.6.0-alpha10/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.0-alpha10] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/f3c72b78494a7a58f549bc6f57b474f8/databinding-runtime-3.6.0-alpha10/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.0-alpha10] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/f3c72b78494a7a58f549bc6f57b474f8/databinding-runtime-3.6.0-alpha10/AndroidManifest.xml:22:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/41f84cff9ebe04da2634f286216d13ca/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/41f84cff9ebe04da2634f286216d13ca/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/c7a6707066178354c343ff9c2c6e969d/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/c7a6707066178354c343ff9c2c6e969d/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/53f447ea699bd6dfae5e1fd2e6fa01c3/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/53f447ea699bd6dfae5e1fd2e6fa01c3/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:3.6.0-alpha10] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/2b01d27db1a2c389d32ec7184215b9ef/viewbinding-3.6.0-alpha10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.0-alpha10] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/2b01d27db1a2c389d32ec7184215b9ef/viewbinding-3.6.0-alpha10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/8cb508bfdf6f01ce245c91d9384c4125/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/8cb508bfdf6f01ce245c91d9384c4125/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/267e4149f63c2e51de2566f6f71c0bb6/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/267e4149f63c2e51de2566f6f71c0bb6/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/7e9170591c8063189dd672eb32ef437a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/7e9170591c8063189dd672eb32ef437a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/0bc3591ed575c344fa288c760c87b785/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/0bc3591ed575c344fa288c760c87b785/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/74020400db2f6fa3fe2ddd0964079197/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/74020400db2f6fa3fe2ddd0964079197/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/644ec96439e52d4a491f95380dc1ff2a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/644ec96439e52d4a491f95380dc1ff2a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/2ed27b7bfd5db6b0d490239292bedbf1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/2ed27b7bfd5db6b0d490239292bedbf1/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/911b9c1a56c56c8f2e170d4155e05b82/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/911b9c1a56c56c8f2e170d4155e05b82/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/000a7a43e10ea483766e0620a1258420/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/000a7a43e10ea483766e0620a1258420/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/ef45be40d873485720c8fce349da88cd/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/ef45be40d873485720c8fce349da88cd/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/b472d5dc0bba90d56f6d8f693a67c071/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/b472d5dc0bba90d56f6d8f693a67c071/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/1c6997942e90d77c9a99076f6357a432/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/1c6997942e90d77c9a99076f6357a432/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/3f6cbfe76996e07d01dfbefe588191c3/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/3f6cbfe76996e07d01dfbefe588191c3/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/83fc8aee898046f8f3c53094c75b8e10/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/83fc8aee898046f8f3c53094c75b8e10/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/aab1b696e295f763adb899bd1d31aff7/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/aab1b696e295f763adb899bd1d31aff7/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/06c19f6d674320399466171bff69e4d6/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/06c19f6d674320399466171bff69e4d6/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/092c1988deaeb1ae541168f6c05386e9/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/092c1988deaeb1ae541168f6c05386e9/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/7decd17eba4095488b8ca41eafcd30f0/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/7decd17eba4095488b8ca41eafcd30f0/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/a20568c990416533fb56e6edaae3482f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/a20568c990416533fb56e6edaae3482f/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/e42fade8552409619bc04e2b440b6328/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/e42fade8552409619bc04e2b440b6328/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/ba368533c87b0b41c7bba57cfdaf1f07/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/ba368533c87b0b41c7bba57cfdaf1f07/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/18466d29eaf5be32e500b2eaa0b5d033/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/18466d29eaf5be32e500b2eaa0b5d033/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/a0e2b3729924c770ca82575f6f8a79da/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/a0e2b3729924c770ca82575f6f8a79da/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/1d5d554c4d92a0e804499914fc7249fa/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/1d5d554c4d92a0e804499914fc7249fa/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/22b205a0b95124a7c7b3ffb9f7f76e2f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/stuetz/.gradle/caches/transforms-2/files-2.1/22b205a0b95124a7c7b3ffb9f7f76e2f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+		ADDED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/stuetz/CloudStation/htl/skripten/themen/android.kotlin/udacity-jetpack-kurs/android-jetpack-aboutme/app/src/main/AndroidManifest.xml
